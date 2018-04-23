@@ -1,0 +1,25 @@
+#login-buttons {
+  font-size: 14px;
+  margin: 18px;
+}
+
+.list-group-item {
+  height: 55px;
+}
+
+.bins-share {
+  align-items: center;
+  bottom: 0;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  width: 100%;
+}
+
+.bins-share .input-group {
+  width: 30%;
+}
+
+.bins-share > div {
+  margin: 0 10px;
+}
